@@ -8,7 +8,7 @@
 - HTML, CSS, JavaScript
 - Адаптивна верстка
 - Робота з DOM
-- Git, GitHub
+- GitHub
 
 ## 📁 Pet-проекти:
 - **Малюнок** – додаток для малювання мишкою(у розробці) [GitHub](https://github.com/nicholas-maker/Drawing-App/tree/main) | [Демо](https://nicholas-maker.github.io/Drawing-App/)
