@@ -11,7 +11,7 @@
 - GitHub
 
 ## 📁 Pet-проекти:
-- **Малюнок** – додаток для малювання мишкою(у розробці) [GitHub](https://github.com/nicholas-maker/Drawing-App/tree/main) | [Демо](https://nicholas-maker.github.io/Drawing-App/)
+- **Малювалка** – додаток для малювання мишкою(у розробці) [GitHub](https://github.com/nicholas-maker/Drawing-App/tree/main) | [Демо](https://nicholas-maker.github.io/Drawing-App/)
 - **Калькулятор** – базовий калькулятор JS [GitHub](https://github.com/nicholas-maker/Calculator-App) | [Демо](https://nicholas-maker.github.io/Calculator-App/)
 - **Сайт-візитка** – верстка за макетом [GitHub](https://github.com/nicholas-maker/Website-Layout) | [Демо](http://nicholas-maker.github.io/Website-Layout/)
 
